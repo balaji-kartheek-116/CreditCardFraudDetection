@@ -115,7 +115,7 @@ def main():
 def send_email(receiver_email, is_fraud):
     # Email configuration
     sender_email = "asaninnovators48@gmail.com"  # Replace with your email
-    password = "dlds riyd ppba iqjf"  # Replace with your password
+    password = "cjtx ioar dsls gnmw"  # Replace with your password
     
     if is_fraud:
         subject = "Fraud Alert!"
